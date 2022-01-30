@@ -1,0 +1,51 @@
+body {
+    background: #F9F9F9;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.App {
+    width: 800px;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 189px;
+    height: 38px;
+    
+    background: #4A9DFF;
+    border-radius: 10px;
+    border: none;
+    margin: 4px;
+
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+input, input:focus, input:active, input:focus-visible {
+    width: 226px;
+    height: 28px;
+    left: 322px;
+    top: 476px;
+    border: none;
+    outline: none;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+table {
+    color: #5D6D97;
+    background: #fff;
+}
+
+td, th {
+    padding: 16px 30px 20px;
+    border-bottom: 1px solid rgba(93, 110, 151, 0.4);
+}
