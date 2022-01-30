@@ -1,2 +1,9 @@
-React for frontend
-Web api on .net 6 and SQL server for backend
+# Technologies
+## Backend
+- .NET 6
+- Entity Framework 6
+- AutoMapper
+- Swagger
+- SQL Server
+## Frontend
+- React 16
